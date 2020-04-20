@@ -1,0 +1,3 @@
+[submodule "submod-repro-submodule"]
+	path = submod-repro-submodule
+	url = https://github.com/seandst/submod-repro-submodule.git
